@@ -1,0 +1,18 @@
+{
+    "name": "rasel/password-meter",
+    "description": "Password Meter is inspired by pointing system of Password Entropy, in which the main purpose is to help the end-users to have stronger passwords. (Password entropy is a measurement of how unpredictable a password is.)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rasel Ahmed",
+            "email": "raselahmed.lucse@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "passwordMeter\\": "main/"
+        }
+    },
+    "require": {}
+}
