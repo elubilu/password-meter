@@ -17,7 +17,7 @@ It's very easy configure on your application. just follow on below:
 
 ```php
 
-
+<?php
 $app =  new passwordMeter\passwordMeter();
 $app->password_strength("1111"); // return  message = "Very Weak" , strength = 14  , percentage = 11%
 $app->password_strength("aaaa"); // return  message = "Very Weak" , strength = 19 , percentage = 15%
