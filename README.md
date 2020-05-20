@@ -1,10 +1,10 @@
 # password-meter
-[Password Meter] (https://packagist.org/packages/elubilu/password-meter) is inspired by pointing system of Password Entropy, in which the main purpose is to help the end-users to have stronger passwords. (Password entropy is a measurement of how unpredictable a password is.)
+[Password Meter](https://packagist.org/packages/elubilu/password-meter) is inspired by pointing system of Password Entropy, in which the main purpose is to help the end-users to have stronger passwords. (Password entropy is a measurement of how unpredictable a password is.)
 
 
 ## Installation
 
-Use the package manager [composer](https://packagist.org/packages/elubilu/password-meter) to install [Password Meter]  (https://packagist.org/packages/elubilu/password-meter) 
+Use the package manager [composer](https://packagist.org/packages/elubilu/password-meter) to install [Password Meter](https://packagist.org/packages/elubilu/password-meter) 
 
 ```bash
 composer require elubilu/password-meter
