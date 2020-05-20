@@ -34,6 +34,7 @@ $app->password_strength("Hello71*Bangla1desh#"); // return  message = "Very Stro
 
 There are some default messages,
 ```php
+<?php
 $app =  new passwordMeter\passwordMeter();
 $app->get_messages();
 // Example: default messages of package, 
@@ -50,6 +51,7 @@ Array
 
 There are some default configs,
 ```php
+<?php
 $app =  new passwordMeter\passwordMeter();
 $app->get_configs();
 // Example: default configs of package, 
