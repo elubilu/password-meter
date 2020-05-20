@@ -4,7 +4,7 @@
 
 ## Installation
 
-Use the package manager [composer](https://packagist.org/packages/elubilu/password-meter) to install [Password Meter] (https://packagist.org/packages/elubilu/password-meter).
+Use the package manager [composer](https://packagist.org/packages/elubilu/password-meter) to install [Password Meter]  (https://packagist.org/packages/elubilu/password-meter) 
 
 ```bash
 composer require elubilu/password-meter
