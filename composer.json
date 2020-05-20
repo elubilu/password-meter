@@ -14,5 +14,7 @@
             "passwordMeter\\": "main/"
         }
     },
-    "require": {}
+    "require": {
+	
+	}
 }
